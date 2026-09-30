@@ -1,4 +1,13 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://toto1010orange.github.io/legal-blog/'
+languageCode = 'ja-jp'
+title = '情報学生法学記'
+defaultContentLanguage="ja"
 theme = "PaperMod"
+[params]
+  author = "toto1010orange"
+[params]
+  ShowToc=true
+  TocOpen= false
+  ShowReasingTime =true
+  ShowShareButtons=true
+  ShowPostNavLinks=true
