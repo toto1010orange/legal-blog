@@ -10,3 +10,4 @@ theme = "PaperMod"
   ShowReadingTime =true
   ShowShareButtons=true
   ShowPostNavLinks=true
+  ShareButtons=["x","facebook"]
