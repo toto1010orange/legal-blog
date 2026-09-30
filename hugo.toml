@@ -5,9 +5,8 @@ defaultContentLanguage="ja"
 theme = "PaperMod"
 [params]
   author = "toto1010orange"
-[params]
   ShowToc=true
   TocOpen= false
-  ShowReasingTime =true
+  ShowReadingTime =true
   ShowShareButtons=true
   ShowPostNavLinks=true
