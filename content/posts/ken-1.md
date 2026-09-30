@@ -18,6 +18,8 @@ ShowToc= true
 セキュリティ・ミニキャンプ山梨2026参加  
 基本情報技術者  
 
+social media: [X](https://x.com/toto1010orange)
+
 ## 憲法は自由に改正することができない？
 
 ### 通説
